@@ -1,12 +1,5 @@
 # TecniHogar
-
-Universidad del Valle de Guatemala  
-CC2008 - Programación Orientada a Objetos | Ciclo 2, 2026  
-Lab 3 - Herencia y Polimorfismo  
-
----
-
-## Análisis (Versión 1.0)
+## Análisis
 
 ### 1. Requisitos funcionales
 
